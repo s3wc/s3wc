@@ -1,4 +1,4 @@
-[![Codwears badge]((https://www.codewars.com/users/s3w/badges/large))](https://www.codewars.com/users/s3w)
+[![Codwears badge]((https://www.codewars.com/users/s3w/badges/large))]((https://www.codewars.com/users/s3w))
 
 <!--
 **s3wc/s3wc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
